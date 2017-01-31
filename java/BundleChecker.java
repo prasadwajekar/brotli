@@ -1,26 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @prasadwajekar
- Unwatch 1
-  Star 0
-  Fork 447 prasadwajekar/brotli
-forked from google/brotli
- Code  Pull requests 0  Projects 0  Pulse  Graphs  Settings
-Branch: master Find file Copy pathbrotli/java/integration/BundleChecker.java
-e9b278a  on 31 Oct 2016
-@eustas eustas Update docs and add more java tests (#463)
-1 contributor
-RawBlameHistory    
-Executable File  141 lines (129 sloc)  4.46 KB
-/* Copyright 2016 Google Inc. All Rights Reserved.
-   Distributed under MIT license.
-   See file LICENSE for detail or copy at https://opensource.org/licenses/MIT
-*/
-
 package org.brotli.integration;
 
 import org.brotli.dec.BrotliInputStream;
